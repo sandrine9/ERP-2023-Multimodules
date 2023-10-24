@@ -1,0 +1,5 @@
+# Project exclude paths
+/ERP-2023-APPLICATION/target/
+/ERP-2023-DOMAINE/target/
+/ERP-2023-DTO/target/
+/ERP-2023-INFRASTRUCTURE/target/
